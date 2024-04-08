@@ -1,0 +1,13 @@
+filename = 'villagespawnpoint-1.20.1-4.2.jar'
+name = 'Village Spawn Point'
+side = 'server'
+
+[download]
+hash = 'b5217826b6681fb217276ab32cd40ec7c4d7500d79b13bd4f46c5f81327269b4f903f5c93b221ead4657f964716297757b5814404115ab9778662384dced9cdb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KplTt9Ku/versions/4Tzb8ngB/villagespawnpoint-1.20.1-4.2.jar'
+
+[update.modrinth]
+mod-id = 'KplTt9Ku'
+version = '4Tzb8ngB'

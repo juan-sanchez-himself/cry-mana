@@ -1,0 +1,13 @@
+filename = 'huskssand-1.20.1-7-forge.jar'
+name = 'Husks drop sand'
+side = 'both'
+
+[download]
+hash = 'cbb95032272c9298001f09efe6d9897cb2a98e4a13f724b5c67b64929c397c6160072628c6a38ed2b9dcfde13c5db75ce47d956b3467d24d47783fd14b4495b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ALCRGi16/versions/kGDjHM7I/huskssand-1.20.1-7-forge.jar'
+
+[update.modrinth]
+mod-id = 'ALCRGi16'
+version = 'kGDjHM7I'

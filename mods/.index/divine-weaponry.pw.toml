@@ -1,0 +1,13 @@
+filename = 'Divine_Weaponry_v1.7_1.20.1.jar'
+name = 'Divine Weaponry - Better Combat'
+side = 'both'
+
+[download]
+hash = '63b8a33925282989639a0fc1a30e15d727476775'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4810989
+project-id = 852492

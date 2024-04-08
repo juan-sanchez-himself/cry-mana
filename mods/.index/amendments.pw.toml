@@ -1,0 +1,13 @@
+filename = 'amendments-1.20-1.1.14.jar'
+name = 'Amendments'
+side = 'both'
+
+[download]
+hash = '22dc4a48205e0c24d751737043558ee09cc92c9a35c3588be01d044b49944111f6305b1ca768435edddd0aa4fa47c2ffb345736d356c7d78edc36728c9c5adb7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6iTJugQR/versions/VDFkvpmj/amendments-1.20-1.1.14.jar'
+
+[update.modrinth]
+mod-id = '6iTJugQR'
+version = 'VDFkvpmj'

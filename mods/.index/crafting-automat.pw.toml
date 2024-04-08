@@ -1,0 +1,13 @@
+filename = 'CraftingAutomat-MC1.20.1-1.2.4.jar'
+name = 'Crafting Automat'
+side = 'both'
+
+[download]
+hash = 'dc0cd516cde8b51d9e417be67dd9e556ceee08c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4673529
+project-id = 293856

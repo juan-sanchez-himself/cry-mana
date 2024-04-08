@@ -1,0 +1,13 @@
+filename = 'zombiehorsespawn-1.20.1-4.8.jar'
+name = 'Zombie Horse Spawn'
+side = 'server'
+
+[download]
+hash = 'bb51d61479d3f06ec677f923571b2702127dc6adae84455d4ab298429dd45756e8f0ef993343d3b381946b866cab98fd6d1cc229566c021027fb21763e470d14'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/owDBGfRd/versions/lMQNGyig/zombiehorsespawn-1.20.1-4.8.jar'
+
+[update.modrinth]
+mod-id = 'owDBGfRd'
+version = 'lMQNGyig'

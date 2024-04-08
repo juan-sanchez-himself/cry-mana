@@ -1,0 +1,13 @@
+filename = 'merenc-forge-1.20.x-v3.2.jar'
+name = 'Merge Enchantments'
+side = 'both'
+
+[download]
+hash = 'e12cd809aebceb2fe2bf960df989ccb4e05551a132aeb43fd1da169d42eb0ee279f1dc34a429f7bace4632a783543c76bf371eb4e3068d19cd02d5f944001cc3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xZUFmYJ5/versions/hcNk749V/merenc-forge-1.20.x-v3.2.jar'
+
+[update.modrinth]
+mod-id = 'xZUFmYJ5'
+version = 'hcNk749V'

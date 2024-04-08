@@ -1,0 +1,13 @@
+filename = 'wooledboots-1.7.1-forge-mc1.20.2.jar'
+name = 'Wooled Boots'
+side = 'both'
+
+[download]
+hash = '5f9eb89d293a96837a0af42f1b388985f8e45db978b1a15d98854f06b76990af4e1c328fd5e114ce13347b7149ce4f7a280bd3ae98a3f7afdc7568aad8bbd8f5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YJfbVVdW/versions/X28NUtiq/wooledboots-1.7.1-forge-mc1.20.2.jar'
+
+[update.modrinth]
+mod-id = 'YJfbVVdW'
+version = 'X28NUtiq'

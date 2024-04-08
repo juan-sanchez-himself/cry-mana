@@ -1,0 +1,13 @@
+filename = 'whatareyouvotingfor2023-1.20.1-1.2.4.jar'
+name = 'What Are You Voting For? 2023'
+side = 'both'
+
+[download]
+hash = '969c908e38b8ffaf3fdb8d29e702e0130e999679673b19ba4e9cf40bc1a44e3e14fda7d67f173745a427e42fab9235a5ae41f45eb52593e890195960aac74207'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MmALiFwH/versions/wvKpmX1i/whatareyouvotingfor2023-1.20.1-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'MmALiFwH'
+version = 'wvKpmX1i'

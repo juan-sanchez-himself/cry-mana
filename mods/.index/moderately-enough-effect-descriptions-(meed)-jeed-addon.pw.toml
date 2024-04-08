@@ -1,0 +1,13 @@
+filename = 'MEED-1.20.1-4.2.jar'
+name = 'Moderately Enough Effect Descriptions'
+side = 'both'
+
+[download]
+hash = 'b3c28f69da00336f2d0d82a543894a272c9bf3bb629e18e8be6984bf1516d71771906abac851ce3470d56507ab6817a8f090db890286c541f18d5de6f2affc20'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1dxbxzCg/versions/ZVEvN4a2/MEED-1.20.1-4.2.jar'
+
+[update.modrinth]
+mod-id = '1dxbxzCg'
+version = 'ZVEvN4a2'

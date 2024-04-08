@@ -1,0 +1,13 @@
+filename = 'monolib-forge-1.20.1-1.0.0.jar'
+name = 'MonoLib'
+side = 'both'
+
+[download]
+hash = '7e279c3414853c2c4dfe77742a211bb61d56f540cf576090180f3c2e645d402e85dc32ded075b99861be4c8d07dabce9a046c11ca61fb8707a1cdfff24f91acf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9leXt4A5/versions/dBXyPhMf/monolib-forge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '9leXt4A5'
+version = 'dBXyPhMf'

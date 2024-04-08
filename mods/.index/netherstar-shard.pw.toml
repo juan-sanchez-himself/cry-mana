@@ -1,0 +1,13 @@
+filename = 'netherstar_shards-1.0.2.jar'
+name = 'Netherstar Shard'
+side = 'both'
+
+[download]
+hash = '1cd0c16d74ad388eb8e12c12310a9049c2ac8a86'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5042538
+project-id = 957358

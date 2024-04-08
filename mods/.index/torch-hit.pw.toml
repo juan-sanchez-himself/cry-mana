@@ -1,0 +1,13 @@
+filename = 'torchhit-1.20.1-6.0.2.0-forge.jar'
+name = 'Torch hit!'
+side = 'both'
+
+[download]
+hash = '848312abc0a5f5072a0b6c61a3ae9ac58c86ffa1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4835472
+project-id = 629434
