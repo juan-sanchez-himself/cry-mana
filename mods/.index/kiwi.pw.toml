@@ -1,13 +1,13 @@
-filename = 'Kiwi-1.20.1-forge-11.6.0.jar'
-name = 'Kiwi 🥝'
+filename = 'Kiwi-1.20.1-Forge-11.8.6.jar'
+name = 'Kiwi Library'
 side = 'both'
 
 [download]
-hash = 'c4c739273a3b8231989764ef71442cd24021dfaf19cffb25a8852ba7e84e5f2864371a08e00ef509552485b127f5438ff2b4138040e8f06340dbfbc8804f3ec4'
+hash = 'c19ab659b9c1b3d344e62bfc8ea3de08abe3453eb3d1802cce4ba8ab7bc775c3c5544a8affac48d5fce7501d90111e40aeca91588d2b7af8472c4e4192c616a3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/QoSRUY3y/Kiwi-1.20.1-forge-11.6.0.jar'
+url = 'https://cdn.modrinth.com/data/ufdDoWPd/versions/2Bqv8FLz/Kiwi-1.20.1-Forge-11.8.6.jar'
 
 [update.modrinth]
 mod-id = 'ufdDoWPd'
-version = 'QoSRUY3y'
+version = '2Bqv8FLz'

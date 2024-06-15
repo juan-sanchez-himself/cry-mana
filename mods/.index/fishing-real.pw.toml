@@ -1,13 +1,13 @@
-filename = 'Fishingreal-1.20.1-1.7.1.jar'
-name = 'Fishing Real'
+filename = 'Fishingreal-1.20.1-1.7.2.jar'
+name = 'Fishingreal'
 side = 'both'
 
 [download]
-hash = '9aa2bcf206564ff2bbfd0f070e60ffa88aca55c319279afe352910151e3abe6650b4b317cbcb237b74a53c0115d8d94b44198f4d1e473d1b195cdf7c73c70dc2'
+hash = '2b4cfb80d635f4756ae8a515393b24e7bca4a5459e6a7215b16fc061027f2277e4e51ee61b4468bc600503f77fcfa18cac6d699dd8cc7c42fe6ef32748c99c4a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/MIdaKqt7/versions/4x8iFFKy/Fishingreal-1.20.1-1.7.1.jar'
+url = 'https://cdn.modrinth.com/data/MIdaKqt7/versions/M44pHDr2/Fishingreal-1.20.1-1.7.2.jar'
 
 [update.modrinth]
 mod-id = 'MIdaKqt7'
-version = '4x8iFFKy'
+version = 'M44pHDr2'

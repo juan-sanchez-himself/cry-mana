@@ -1,13 +1,13 @@
-filename = 'NBTac-FORGE-1.20.1-1.2.jar'
+filename = 'NBTac-FORGE-1.20.1-1.2.1.jar'
 name = 'NBT Autocomplete'
-side = 'client'
+side = 'both'
 
 [download]
-hash = 'cba934089dfe48324ebf03d92530e72d89e8cbe14e6e70ef26642f13f1e57494cf2cb09becb57401187b13af0d3575bdee4d608b57d7af9a6f3eb44e47a20543'
+hash = '004bb6dc1fdc4948ca326422fe1959a2684ab8ba79e1c1213d97e82bc073d88f8a38294559d35ad23b2cb76f00a1fc802159489abfd91ac7064b7dad6c0a754d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/UR0ocuEt/versions/tNRvWHVz/NBTac-FORGE-1.20.1-1.2.jar'
+url = 'https://cdn.modrinth.com/data/UR0ocuEt/versions/6gmFPY35/NBTac-FORGE-1.20.1-1.2.1.jar'
 
 [update.modrinth]
 mod-id = 'UR0ocuEt'
-version = 'tNRvWHVz'
+version = '6gmFPY35'
