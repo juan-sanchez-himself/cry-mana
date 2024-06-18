@@ -1,0 +1,13 @@
+filename = 'walljump-1.20.1-1.1.6-forge.jar'
+name = 'Wall-Jump TXF'
+side = 'both'
+
+[download]
+hash = 'fa0e89773321597ee55bdb69d1e0e794f24d01cc74e1bdbe996d57f08a7776f7fb5e7f3cddcda8f6928ef5f3d95cb22b88f8b7d76fe51aa3d35c3328454b75e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oUoetxfR/versions/rTcifsOd/walljump-1.20.1-1.1.6-forge.jar'
+
+[update.modrinth]
+mod-id = 'oUoetxfR'
+version = 'rTcifsOd'
