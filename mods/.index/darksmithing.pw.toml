@@ -1,0 +1,13 @@
+filename = 'darksmithing-forge-1.20.1-1.0.5.jar'
+name = 'DarkSmithing'
+side = 'server'
+
+[download]
+hash = '33f57d618616e4faa728b8a3d43c9f82d47d73833fcff81ab5ff2fab892b9d49dde3bedf55cb506e20f5e72d902e8048d86cb9a7be486832df82575e0e2d1748'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/y6i0Pn9k/versions/H327PduX/darksmithing-forge-1.20.1-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'y6i0Pn9k'
+version = 'H327PduX'

@@ -1,0 +1,13 @@
+filename = 'unusualfishmod-1.0.4.jar'
+name = 'Unusual Fish Mod'
+side = 'both'
+
+[download]
+hash = 'dcb215f67591f2925fb97735af3ec066b68c739c7bd036798cb4efff57afaf83c45972a66da52b87cd98034cf69db12f7078aa9428c3751bbd6a546e0b4c8da8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vYSi4UOX/versions/EoczrtoT/unusualfishmod-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'vYSi4UOX'
+version = 'EoczrtoT'

@@ -1,0 +1,13 @@
+filename = 'plaingrinder-1.20.1-1.3.0.jar'
+name = 'Plain Grinder'
+side = 'both'
+
+[download]
+hash = '722286eefa651905aa9f6bedd7c2ff252649e6ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4706259
+project-id = 452000

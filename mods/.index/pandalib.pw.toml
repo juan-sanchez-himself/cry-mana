@@ -1,0 +1,13 @@
+filename = 'pandalib-0.2.1-forge-1.20.jar'
+name = 'PandaLib'
+side = 'both'
+
+[download]
+hash = '713914cb9fcc062a2839fd8776f71cb30bb0daa2f3d54083e163a38f7eea4c6037a3989353cde7f6db214cdbc7bf2e83070fd9432463c72a597c07d5d54f69dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mEEGbEIu/versions/fFk2KtnU/pandalib-0.2.1-forge-1.20.jar'
+
+[update.modrinth]
+mod-id = 'mEEGbEIu'
+version = 'fFk2KtnU'

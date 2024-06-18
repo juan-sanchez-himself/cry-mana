@@ -1,0 +1,13 @@
+filename = 'snowballsfreezemobs-1.20.1-3.3.jar'
+name = 'Snowballs Freeze Mobs'
+side = 'server'
+
+[download]
+hash = '430a02c98ac8dd2d2f956ed18b11823b98381cd9da1316afb2d0dbfd16ebdfcf5e7d58b8e3a96d9823c540ee4756747cb07f376dcfd864a878152528dc073135'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ETKe9DNz/versions/l3xv2ZNC/snowballsfreezemobs-1.20.1-3.3.jar'
+
+[update.modrinth]
+mod-id = 'ETKe9DNz'
+version = 'l3xv2ZNC'

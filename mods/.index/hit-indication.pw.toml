@@ -1,0 +1,13 @@
+filename = 'hitindication-1.20.1-1.3.1.jar'
+name = 'Hit Indication'
+side = 'server'
+
+[download]
+hash = 'fed104b33f97d9d44ddc0398f5f3875197bbadb72049c274a6e78d48cf2d08728ec10a6c68ea91c9d1e3a4b1367c32709a5a17b163a8982505a7f00f37ffb82f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Si3V1hU5/versions/RnizXNfv/hitindication-1.20.1-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'Si3V1hU5'
+version = 'RnizXNfv'
