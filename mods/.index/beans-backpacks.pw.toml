@@ -1,0 +1,13 @@
+filename = 'BeansBackpacks-forge-1.20.1-2.0.jar'
+name = 'Beans Backpacks'
+side = 'both'
+
+[download]
+hash = 'e5c6a5cfa3d70a214d79244cec28a83a546e441d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5368249
+project-id = 946775
